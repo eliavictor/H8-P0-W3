@@ -4,9 +4,8 @@
  */
 function tukar(a,b){
 
-	var c = '';
+	var c = a;
 
-	c = a;
 	a = b;
 	b = c;
 

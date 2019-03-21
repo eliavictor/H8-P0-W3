@@ -9,7 +9,7 @@ function changeMe(arr) {
     }else{
       object.age = 2019-arr[i][3];
     }
-    console.log((i+1) + '. ' + object.firstName + ' ' + object.lastName)
+    console.log((i+1) + '. ' + object.firstName + ' ' + object.lastName + ' :')
     console.log(object)
   }
 }
