@@ -1,9 +1,8 @@
 function makanTerusRekursif(waktu) {
 	var hasil = 1;
-	var hasil0 = 0;
 
 	if (waktu === 0) {
-		return hasil0
+		return 0
 	}
 
 	if (waktu <= 15) {
